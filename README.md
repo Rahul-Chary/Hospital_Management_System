@@ -1,10 +1,8 @@
-# Hosital-Management-System-DBMS
-<b>Link</b> : https://github.com/hrishikeshathalye/Hospital-Management-System-DBMS
+# Hospital-Management-System
 
 <pre>
-Name: Hrishikesh Athalye
-MIS: 111803154
-Class : TY Comp Div 2
+Name: Kondamadugu Rahul Chary
+College:Sri Indu College Of Engineering and Technology
 </pre>
 
 Hospital Management System made for Sem 5 DBMS Course Project.<br>
@@ -16,12 +14,6 @@ Frontend : React.js
 Backend : Node.js, Express
 Database : MySQL
 </pre>
-
-<b>ER Diagram :</b>
-![alt text](https://github.com/hrishikeshathalye/Hosital-Management-System-DBMS/blob/master/Schemas%26ER/myer.png)
-
-<b>Relational Schemas :</b>
-![alt text](https://github.com/hrishikeshathalye/Hosital-Management-System-DBMS/blob/master/Schemas%26ER/schema.png)
 
 <b>Patient Side Features :</b>
 
