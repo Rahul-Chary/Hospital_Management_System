@@ -15,6 +15,12 @@ Backend : Node.js, Express
 Database : MySQL
 </pre>
 
+<b>ER Diagram :</b>
+![alt text](https://github.com/Rahul-Chary/Hospital_Management_System/blob/main/Schemas&ER/myer.png?raw=true)
+
+<b>Relational Schema :</b>
+![alt text](https://github.com/Rahul-Chary/Hospital_Management_System/blob/main/Schemas&ER/schema.png?raw=true)
+
 <b>Patient Side Features :</b>
 
     1. There is a seperate interface for patients. Patients have a seperate login.
