@@ -47,7 +47,7 @@ Database : MySQL
 
 <b>Screenshots :</b>
 1. Patient registering on the system:
-![alt text]([https://github.com/hrishikeshathalye/Hosital-Management-System-DBMS/blob/master/Screenshots/PatientRegistration.png](https://github.com/Rahul-Chary/Hospital_Management_System/blob/main/Screenshots/PatientRegistration.png?raw=true))
+![alt text](https://github.com/Rahul-Chary/Hospital_Management_System/blob/main/Screenshots/PatientRegistration.png?raw=true)
 
 2. Doctor registering on the system:
 ![alt text](https://github.com/hrishikeshathalye/Hosital-Management-System-DBMS/blob/master/Screenshots/DoctorRegistration.png)
