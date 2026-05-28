@@ -50,37 +50,37 @@ Database : MySQL
 ![alt text](https://github.com/Rahul-Chary/Hospital_Management_System/blob/main/Screenshots/PatientRegistration.png?raw=true)
 
 2. Doctor registering on the system:
-![alt text](https://github.com/hrishikeshathalye/Hosital-Management-System-DBMS/blob/master/Screenshots/DoctorRegistration.png)
+![alt text](https://github.com/Rahul-Chary/Hospital_Management_System/blob/main/Screenshots/DoctorRegistration.png?raw=true)
 
 3. Log In Screen:
-![alt text](https://github.com/hrishikeshathalye/Hosital-Management-System-DBMS/blob/master/Screenshots/LogInScreen.png)
+![alt text](https://github.com/Rahul-Chary/Hospital_Management_System/blob/main/Screenshots/LogInScreen.png?raw=true)
 
 4. Password Reset Screen:
-![alt text](https://github.com/hrishikeshathalye/Hosital-Management-System-DBMS/blob/master/Screenshots/PasswordReset.png)
+![alt text](https://github.com/Rahul-Chary/Hospital_Management_System/blob/main/Screenshots/PasswordReset.png?raw=true)
 
 5. Patient Home Screen:
-![alt text](https://github.com/hrishikeshathalye/Hosital-Management-System-DBMS/blob/master/Screenshots/PatientHome.png)
+![alt text](https://github.com/Rahul-Chary/Hospital_Management_System/blob/main/Screenshots/PatientHome.png?raw=true)
 
 6. Patient Viewing History:
-![alt text](https://github.com/hrishikeshathalye/Hosital-Management-System-DBMS/blob/master/Screenshots/PatientHistory.png)
+![alt text](https://github.com/Rahul-Chary/Hospital_Management_System/blob/main/Screenshots/PatientHistory.png?raw=true)
 
 7. Patient Viewing Appointments:
-![alt text](https://github.com/hrishikeshathalye/Hosital-Management-System-DBMS/blob/master/Screenshots/PatientViewingAppt.png)
+![alt text](https://github.com/Rahul-Chary/Hospital_Management_System/blob/main/Screenshots/PatientViewingAppt.png?raw=true)
 
 8. Patient Scheduling Appointment:
-![alt text](https://github.com/hrishikeshathalye/Hosital-Management-System-DBMS/blob/master/Screenshots/SchedulingAppt.png)
+![alt text](https://github.com/Rahul-Chary/Hospital_Management_System/blob/main/Screenshots/SchedulingAppt.png?raw=true)
 
 9. Doctor Home Screen:
-![alt text](https://github.com/hrishikeshathalye/Hosital-Management-System-DBMS/blob/master/Screenshots/DoctorHome.png)
+![alt text](https://github.com/Rahul-Chary/Hospital_Management_System/blob/main/Screenshots/DoctorHome.png?raw=true)
 
 10. Doctor Viewing Appointment:
-![alt text](https://github.com/hrishikeshathalye/Hosital-Management-System-DBMS/blob/master/Screenshots/DoctorViewingAppt.png)
+![alt text](https://github.com/Rahul-Chary/Hospital_Management_System/blob/main/Screenshots/DoctorViewingAppt.png?raw=true)
 
 11. Doctor Giving Diagnosis:
-![alt text](https://github.com/hrishikeshathalye/Hosital-Management-System-DBMS/blob/master/Screenshots/Diagnosis.png)
+![alt text](https://github.com/Rahul-Chary/Hospital_Management_System/blob/main/Screenshots/Diagnosis.png?raw=true)
 
 12. Doctor Viewing Patient History:
-![alt text](https://github.com/hrishikeshathalye/Hosital-Management-System-DBMS/blob/master/Screenshots/ViewingPatientHistory.png)
+![alt text](https://github.com/Rahul-Chary/Hospital_Management_System/blob/main/Screenshots/ViewingPatientHistory.png?raw=true)
 
 <b>Instructions to run:</b>
 
