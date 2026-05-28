@@ -5,7 +5,7 @@ Name: Kondamadugu Rahul Chary
 College:Sri Indu College Of Engineering and Technology
 </pre>
 
-Hospital Management System made for Sem 5 DBMS Course Project.<br>
+Hospital Management System made Project.<br>
 Hospitals interact with a lot of people in a day and there are various activities involved in day to day operations of hospitals, for example booking of appointments, managing doctor schedules, managing patient diagnoses, managing medical histories of patients, etc. The aim of this project is to show how data related to these tasks can be made easier to manage using databases.
 
 <b>Technologies Used:</b>
@@ -47,7 +47,7 @@ Database : MySQL
 
 <b>Screenshots :</b>
 1. Patient registering on the system:
-![alt text](https://github.com/hrishikeshathalye/Hosital-Management-System-DBMS/blob/master/Screenshots/PatientRegistration.png)
+![alt text]([https://github.com/hrishikeshathalye/Hosital-Management-System-DBMS/blob/master/Screenshots/PatientRegistration.png](https://github.com/Rahul-Chary/Hospital_Management_System/blob/main/Screenshots/PatientRegistration.png?raw=true))
 
 2. Doctor registering on the system:
 ![alt text](https://github.com/hrishikeshathalye/Hosital-Management-System-DBMS/blob/master/Screenshots/DoctorRegistration.png)
